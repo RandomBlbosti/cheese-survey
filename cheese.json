@@ -18,7 +18,7 @@
   {"name": "adaf", "opinion": "its delicious. i like it"},
   {"name": "pyro", "opinion": "i dont like it"},
   {"name": "maki", "opinion": "raw cheese sucks"},
-  {"name": "Spinning Toilet", "opinion": "very much tasty"},
+  {"name": "Spinning Toilet", "aliases": ["Spinny"], "opinion": "very much tasty"},
   {"name": "fnm04", "opinion": "some things with cheese are pretty good id say"},
   {"name": "ptyx", "opinion": "best"},
   {"name": "hotball1", "opinion": "cheese"},
