@@ -29,7 +29,7 @@
   {"name": "Midget", "opinion": "I like the British shit"},
   {"name": "RandomB", "aliases": ["MattSi"], "opinion": "yummy :yum:"},
   {"name": "ImPhara", "opinion": "Uuh I like cheese"},
-  {"name": "SebikTheFox", "opinion": "uhh i don't like it"},
+  {"name": "SebikTheFox", "aliases": ["sebik"], "opinion": "uhh i don't like it"},
   {"name": "Locked101", "opinion": "it tastes nice"},
   {"name": "Rewarny", "opinion": "i like it"},
   {"name": "SwaGQ", "opinion": ":thumbsup:"},
@@ -39,5 +39,6 @@
   {"name": "zetex", "opinion": "Good"},
   {"name": "LeifY", "opinion": "Cheese is literally life itself. Without cheese we are nothing. I love cheese too much"},
   {"name": "Numb", "opinion": "Cheese is what keeps me from going on a rampage"},
-  {"name": "UFWM", "aliases": ["UFokinWotM8"], "opinion": "7/10"}
+  {"name": "UFWM", "aliases": ["UFokinWotM8"], "opinion": "7/10"},
+  {"name": "motionn", "opinion": "cheese is professional like cheese bot for cheese"}
 ]
