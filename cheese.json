@@ -96,7 +96,7 @@
   "opinion": "cheese"
 },
 {
-  "name": "qtr-chan",
+  "name": "raisa",
   "aliases": ["querter", "qtr", "querter-chan", "qchan"],
   "opinion": "its cute but only when it's melted, i can't stand raw cheese, especially when it's a block of cheese (ewwwww!!!). if anyone was to give me cheese i'd cry and run away."
 },
@@ -215,4 +215,8 @@
 {
   "name": "GPT-3",
   "opinion": "I think cheese is delicious!"
+},
+{
+  "name": "Ziko",
+  "opinion": "Cheese is the most important part of a burger"
 }]
